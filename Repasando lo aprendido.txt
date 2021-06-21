@@ -2,6 +2,7 @@ Creacion de repositori sin codigo en GitHub
 Creacion de tags y alias
 
 Probando con un colabodador :), cambo hecho por alberto
+Ya puedes hacer cambios y trabajar en esta rama
 
 ***Creación de una Rama***
 *Primer cambio en AppRep
