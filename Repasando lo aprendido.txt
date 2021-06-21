@@ -4,4 +4,4 @@ Creacion de tags y alias
 ***Creación de una Rama***
 *Primer cambio en AppRep
 *Solucionar Error, haciendo el uso de Pull Request
-*Se soluciono el error. - Aviso Importante
+*Se soluciono el error.
