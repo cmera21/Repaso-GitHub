@@ -9,5 +9,5 @@ Ya puedes hacer cambios y trabajar en esta rama
 *Solucionar Error, haciendo el uso de Pull Request
 *Se soluciono el error.
 
-***Modificacion de un desconocido***
+***Modificacion de un Persona***
 Hacer pull request de otras personas
