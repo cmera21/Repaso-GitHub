@@ -8,3 +8,6 @@ Ya puedes hacer cambios y trabajar en esta rama
 *Primer cambio en AppRep
 *Solucionar Error, haciendo el uso de Pull Request
 *Se soluciono el error.
+
+***Modificacion de un desconocido***
+Hacer pull request de otras personas
