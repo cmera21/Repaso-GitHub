@@ -11,3 +11,4 @@ Ya puedes hacer cambios y trabajar en esta rama
 
 ***Modificacion de un Persona***
 Hacer pull request de otras personas
+Un mejor cambio para el Repositorio
