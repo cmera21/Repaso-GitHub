@@ -7,3 +7,4 @@ Ya puedes hacer cambios y trabajar en esta rama
 ***Creación de una Rama***
 *Primer cambio en AppRep
 *Solucionar Error, haciendo el uso de Pull Request
+*Se soluciono el error.
